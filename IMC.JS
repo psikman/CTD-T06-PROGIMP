@@ -23,10 +23,22 @@ let Peso = 80.1;
 let Altura = 1.76;
 let plano = true;
 
-console.log ((Altura**2)/Peso);
+//console.log ((Altura**2)/Peso);
 
-console.log((176**2)/80);
+//console.log((176**2)/80);
 
-var IMC =(176**2)/80;
+//var IMC =(176**2)/80;
 
-console.log(IMC);
+//console.log(IMC);
+
+function calculaIMC (Peso, Altura) {
+    let IMC = Peso/(Altura*Altura);
+// console.log("teste funcao"console.log ((Altura**2)/Peso);)
+console.log("IMC - ",IMC);
+return imc;
+
+}
+
+calculaIMC();
+calculaIMC(Peso,Altura);
+
