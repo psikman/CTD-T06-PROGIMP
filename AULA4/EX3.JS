@@ -21,7 +21,7 @@ let nome = "GILVAN";
 let Idade = 46;
 let Peso = 80.1;
 let Altura = 1.76;
-let plano = true;
+let plano = 'OURO';
 
 //console.log ((Altura**2)/Peso);
 
