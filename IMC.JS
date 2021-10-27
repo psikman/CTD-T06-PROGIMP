@@ -42,4 +42,4 @@ return imc;
 calculaIMC();
 calculaIMC(Peso,Altura);
 
-//atualizacao
+//atualizacao1
