@@ -1,12 +1,12 @@
 /* ATRIBUIÇÃO */
 
-O operador "=" serve para atribuir o valor 40 a uma variável chamada "idade"
+//O operador "=" serve para atribuir o valor 40 a uma variável chamada "idade"
 
-deixe idade = 40
+//deixe idade = 40
 
 /* ARITMÉTICOS */
 
-Nos permitem operações matemáticas
+//Nos permitem operações matemáticas
 
 console. log ("//---> Soma = ", 10 + 15);
 console. log ("/---> Subtração = ", 10 - 15);
