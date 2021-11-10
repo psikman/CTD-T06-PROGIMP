@@ -20,51 +20,50 @@ Quebra: Indica o término do caso.
 
 Padrão: Semelhante ao outro da estrutura se,
 significa um último recurso se nenhum dos casos tem se iniciado,
-como o nome diz, é um caso padrão.*//
+como o nome diz, é um caso padrão.*/
 
- qualOMesfunção(valor) {
-    1 a 12
+qualOMesfunção(valor) {
+    1
     switch (valor) {
-        caso '1': // (valor < 0)
+        case '1': // (valor < 0)
             console. log("JANEIRO");
-            chamarNovaFuncao();
-            Break;
-        caso '2':
+            break;
+        case '2':
             console. log("FEVEREIRO");
-            quebrar;
-        caso '3':
+            break;
+        case '3':
             console. log("MARÇO");
-            quebrar;
-        caso '4':
+            break;
+        case '4':
             console. log("ABRIL");
-            quebrar;
-        caso '5':
+            break;
+        case '5':
             console. log("MAIO");
-            quebrar;
-        caso '6':
+            break;
+        case '6':
             console. log("JUNHO");
-            quebrar;
-        caso '7':
+            break;
+        case '7':
             console. log("JULHO");
-            quebrar;
-        caso '8':
+            break;
+        case '8':
             console. log("AGOSTO");
-            quebrar;
-        caso '9':
+            break;
+        case '9':
             console. log("SETEMBRO");
-            quebrar;
-        caso '10':
+            break;
+        case '10':
             console. log("OUTUBRO");
-            quebrar;
-        caso '11':
+            break;
+        case '11':
             console. log("NOVEMBRO");
-            quebrar;
-        caso '12':
+            break;
+        case '12':
             console. log("DEZEMBRO");
-            quebrar;
-        padrão:
+            break;
+        default:
             console. log("Mês INVÁLIDO");
-            quebrar;
+            break;
     }
 
 }
