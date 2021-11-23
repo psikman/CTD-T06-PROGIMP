@@ -4,8 +4,8 @@ let nome = "Danilo";
 console.log(nome);
 
 function testar(){
-    let nome = "ANA";
-    return console.log(nome);
+    let nomee = "ANA";
+    return console.log(nomee);
 }
 testar();
 console.log(nome);
@@ -13,13 +13,13 @@ console.log(nome);
 
 // ESCOPO: GLOBAL: var
 let teste = 1;
-const fixa;
+const fixaa;
 
 function nova() {
     const interna;
-    fixa = 10;
-    let teste = 0;
-    return teste;
+    fixaa = 10;
+    let teste2 = 0;
+    return teste2;
 }
 // FUNÇÃO BLOCO
 // PODE SER ATUALIZADO?
