@@ -16,7 +16,7 @@ let contaBancaria = {
     //saldo: 500000,
     titularConta: "gilvan", // Objeto - usuario
     valorSaida: 5000,
-    valorEntrada: 10000, //
+    valorEntrada: 1000, //
 
     calcularSaldo: funcion ()
 {
