@@ -6,10 +6,11 @@ console.log(nome);
 
 function testar(){
     let nome = "ANA";
+        test = idade*idade
     return console.log(nome);
 }
 testar();
-console.log(nome);
+console.log(nome,test);
 
 // let idade = 30;
 // let usuarioAtivo = true;

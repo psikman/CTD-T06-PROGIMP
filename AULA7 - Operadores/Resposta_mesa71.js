@@ -1,4 +1,4 @@
-operadores de função (){
+function operadores (){
     console. log('-------------- verdadeiro/falso');
     console. log(! verdade);
     console. log(! falso);
